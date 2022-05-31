@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="img_logo">
+        <item name="android:layout_height">200dp</item>
+        <item name="android:layout_width">200dp</item>
+    </style>
+    <style name="img_cadastro">
+        <item name="android:layout_height">87dp</item>
+        <item name="android:layout_width">250dp</item>
+    </style>
+    <style name="container_formulario">
+        <item name="android:layout_height">375dp</item>
+        <item name="android:layout_width">350dp</item>
+    </style>
+    <style name="container_formulario_cadastro">
+        <item name="android:layout_width">350dp</item>
+        <item name="android:layout_height">400dp</item>
+    </style>
+    <style name="container_formulario_cadastro_filme">
+        <item name="android:layout_width">350dp</item>
+        <item name="android:layout_height">500dp</item>
+    </style>
+    <style name="campos_texto">
+        <item name="android:layout_width">300dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:paddingStart">7dp</item>
+        <item name="android:paddingEnd">7dp</item>
+    </style>
+    <style name="button_app">
+        <item name="android:layout_width">220dp</item>
+        <item name="android:layout_height">50dp</item>
+    </style>
+</resources>
