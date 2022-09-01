@@ -6,10 +6,12 @@ Projeto de aplicativo ao estilo "Letterboxd", como uma rede social em que usuár
 
 Tecnologias usadas:
 
-*Java*<br>
-*SQLite (Banco de dados mobile)*<br>
-*Figma (design das telas)*<br>
-*Android Studio (IDE)*
+<div style="display: inline_block">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" />
+</div>
 
 ## Detalhes sobre o Projeto
 
